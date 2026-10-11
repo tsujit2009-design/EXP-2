@@ -7,12 +7,12 @@ To conduct load test on separately excited generators and to obtain the characte
 Apparatus Required:
 
 Sl .no	Apparatus	Range	Type	Quantity
-1	Volt meter	(0-300)V	MC	1
-2	Ammeter	(0-2.5)A	MC	1
-3	Ammeter	(0-5)A	MC	1
-4	Rheostat		Wire wouned	1
-5	Rheostat		Wire wouned	1
-6	Connecting wires	-	-	As required
+1) Volt meter	(0-300)V	MC	1
+2) Ammeter	(0-2.5)A	MC	1
+3) Ammeter	(0-5)A	MC	1
+4) Rheostat		Wire wouned	1
+5) Rheostat		Wire wouned	1
+6) Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
 
@@ -47,17 +47,48 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+| S.No. | Voltage (V) | Current (A) |
+| :---: | :---: | :---: |
+| 1 | 115 | 0.16 |
+| 2 | 120 | 0.18 |
+| 3 | 126 | 0.20 |
+| 4 | 129 | 0.21 |
+| 5 | 133 | 0.23 |
+| 6 | 135 | 0.24 |
+| 7 | 138 | 0.28 |
+| 8 | 142 | 0.30 |
 
 Tabulation for Load Test:
+| S.No. | Current (A) | Voltage (V) |
+| :---: | :---: | :---: |
+| 1 | 1.2 | 220 |
+| 2 | 2.8 | 212 |
+| 3 | 3.2 | 208 |
+| 4 | 3.6 | 205 |
+| 5 | 5.5 | 200 |
+| 6 | 7 | 195 |
+| 7 | 8.1 | 189 |
+| 8 | 10.2 | 184 |
+
 
 Model graph:
-Calculation: 
+<img width="1078" height="523" alt="image" src="https://github.com/user-attachments/assets/01a475aa-8c29-4ead-86b0-12c6a0fd60ec" />
+
+<img width="1167" height="371" alt="image" src="https://github.com/user-attachments/assets/11ec37ec-f3d7-48c0-ad28-933ad36d3f12" />
+
+
+
 
 Open circuit characteristics
 
+<img width="918" height="798" alt="image" src="https://github.com/user-attachments/assets/36f2f7c6-6cba-42da-83ea-f7e687a372ae" />
+
+
   
 Load Characteristics:
+
+<img width="977" height="791" alt="image" src="https://github.com/user-attachments/assets/d37b8c6d-12b6-4173-8513-a6b839ff1039" />
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
