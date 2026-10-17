@@ -74,10 +74,8 @@ Tabulation for Load Test:
 | 8 | 10.2 | 184 |
 
 Model graph:
-
-<img width="900" height="293" alt="image" src="https://github.com/user-attachments/assets/78909004-8dbe-4032-8fe4-843d624efd5a" />
-
-
+1) Load characteristics of DC  Shunt Generator
+<img width="450" height="293" alt="image" src="https://github.com/user-attachments/assets/78909004-8dbe-4032-8fe4-843d624efd5a" />
 
 
 
@@ -87,19 +85,28 @@ Model graph:
 
 
 
-<img width="957" height="293" alt="image" src="https://github.com/user-attachments/assets/0bdf97f4-70ff-4908-a93d-2a005db4e0a7" />
 
+2) Magnetisation characteristics of DC Shunt Generator
+<img width="450" height="293" alt="image" src="https://github.com/user-attachments/assets/0bdf97f4-70ff-4908-a93d-2a005db4e0a7" />
 
-Open circuit characteristics
+Calculation:
+1) Magnetisation characteristics of DC Shunt Generator
+<img width="450" height="715" alt="image" src="https://github.com/user-attachments/assets/c2f095b1-6db9-434b-b81e-9f858eaf94b3" />
 
-<img width="918" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
-
-
+2) Load characteristics of DC  Shunt Generator
+<img width="450" height="722" alt="image" src="https://github.com/user-attachments/assets/74388a92-4c47-4f05-83c4-78015fdf003f" />
   
-Load Characteristics:
+
+1) Open circuit characteristics
+
+<img width="900" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
 
 
-<img width="1062" height="805" alt="image" src="https://github.com/user-attachments/assets/9f252e10-8bee-4743-857a-999e2c90fd03" />
+
+2) Load Characteristics:
+
+
+<img width="900" height="805" alt="image" src="https://github.com/user-attachments/assets/9f252e10-8bee-4743-857a-999e2c90fd03" />
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
