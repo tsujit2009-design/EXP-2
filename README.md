@@ -91,10 +91,10 @@ Model graph:
 
 Calculation:
 1) Magnetisation characteristics of DC Shunt Generator
-<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/c2f095b1-6db9-434b-b81e-9f858eaf94b3" />
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/c2f095b1-6db9-434b-b81e-9f858eaf94b3" />
 
 2) Load characteristics of DC  Shunt Generator
-<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/74388a92-4c47-4f05-83c4-78015fdf003f" />
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/74388a92-4c47-4f05-83c4-78015fdf003f" />
   
 
 1) Open circuit characteristics
