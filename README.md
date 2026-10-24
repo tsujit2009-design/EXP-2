@@ -96,7 +96,7 @@ Calculation:
 
 
 
-2) Tabulation for Load test:
+2) Tabulation for Load circuit test:
 
 | S.No. | Current (A) | Voltage (V) |
 | :---: | :---: | :---: |
