@@ -30,6 +30,7 @@ Precautions
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test
+   
 Procedure
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
@@ -50,8 +51,6 @@ Procedure for Load test:
 1) Open Circuit characteristics:
  
 <img width="900" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
-
-
 
 
 
