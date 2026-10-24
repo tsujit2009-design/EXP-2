@@ -51,6 +51,12 @@ Procedure for Load test:
  
 <img width="900" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
 
+
+
+
+
+
+
 2) Load Circuit characteristics:
 
 <img width="900" height="805" alt="image" src="https://github.com/user-attachments/assets/9f252e10-8bee-4743-857a-999e2c90fd03" />
@@ -75,6 +81,8 @@ Model graph:
 Calculation:
 1) Magnetisation characteristics of DC Shunt Generator
 <img width="450" height="500" alt="image" src="https://github.com/user-attachments/assets/c2f095b1-6db9-434b-b81e-9f858eaf94b3" />
+
+
 
 2) Load characteristics of DC  Shunt Generator
 <img width="450" height="500" alt="image" src="https://github.com/user-attachments/assets/74388a92-4c47-4f05-83c4-78015fdf003f" />
