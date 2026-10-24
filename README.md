@@ -48,30 +48,12 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test:
+<img width="900" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
 
-| S.No. | Voltage (V) | Current (A) |
-| :---: | :---: | :---: |
-| 1 | 115 | 0.16 |
-| 2 | 120 | 0.18 |
-| 3 | 126 | 0.20 |
-| 4 | 129 | 0.21 |
-| 5 | 133 | 0.23 |
-| 6 | 135 | 0.24 |
-| 7 | 138 | 0.28 |
-| 8 | 142 | 0.30 |
 
 Tabulation for Load Test:
+<img width="900" height="805" alt="image" src="https://github.com/user-attachments/assets/9f252e10-8bee-4743-857a-999e2c90fd03" />
 
-| S.No. | Current (A) | Voltage (V) |
-| :---: | :---: | :---: |
-| 1 | 1.2 | 220 |
-| 2 | 2.8 | 212 |
-| 3 | 3.2 | 208 |
-| 4 | 3.6 | 205 |
-| 5 | 5.5 | 200 |
-| 6 | 7 | 195 |
-| 7 | 8.1 | 189 |
-| 8 | 10.2 | 184 |
 
 Model graph:
 1) Load characteristics of DC  Shunt Generator
@@ -98,15 +80,35 @@ Calculation:
   
 
 1) Open circuit characteristics
+   
+| S.No. | Voltage (V) | Current (A) |
+| :---: | :---: | :---: |
+| 1 | 115 | 0.16 |
+| 2 | 120 | 0.18 |
+| 3 | 126 | 0.20 |
+| 4 | 129 | 0.21 |
+| 5 | 133 | 0.23 |
+| 6 | 135 | 0.24 |
+| 7 | 138 | 0.28 |
+| 8 | 142 | 0.30 |
 
-<img width="900" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
 
 
 
 2) Load Characteristics:
 
+| S.No. | Current (A) | Voltage (V) |
+| :---: | :---: | :---: |
+| 1 | 1.2 | 220 |
+| 2 | 2.8 | 212 |
+| 3 | 3.2 | 208 |
+| 4 | 3.6 | 205 |
+| 5 | 5.5 | 200 |
+| 6 | 7 | 195 |
+| 7 | 8.1 | 189 |
+| 8 | 10.2 | 184 |
 
-<img width="900" height="805" alt="image" src="https://github.com/user-attachments/assets/9f252e10-8bee-4743-857a-999e2c90fd03" />
+
  
 Result:
 
