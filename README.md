@@ -47,11 +47,12 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test:
+1) Open Circuit characteristics:
+ 
 <img width="900" height="795" alt="image" src="https://github.com/user-attachments/assets/3affb549-2d53-4ea2-9a76-86afbc546ebb" />
 
+2) Load Circuit characteristics:
 
-Tabulation for Load Test:
 <img width="900" height="805" alt="image" src="https://github.com/user-attachments/assets/9f252e10-8bee-4743-857a-999e2c90fd03" />
 
 
@@ -79,7 +80,7 @@ Calculation:
 <img width="450" height="500" alt="image" src="https://github.com/user-attachments/assets/74388a92-4c47-4f05-83c4-78015fdf003f" />
   
 
-1) Open circuit characteristics
+1) Tabulation for Open circuit test:
    
 | S.No. | Voltage (V) | Current (A) |
 | :---: | :---: | :---: |
@@ -95,7 +96,7 @@ Calculation:
 
 
 
-2) Load Characteristics:
+2) Tabulation for Load test:
 
 | S.No. | Current (A) | Voltage (V) |
 | :---: | :---: | :---: |
